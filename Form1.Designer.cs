@@ -28,13 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.btn_getData = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // btn_getData
+            // 
+            this.btn_getData.Location = new System.Drawing.Point(12, 12);
+            this.btn_getData.Name = "btn_getData";
+            this.btn_getData.Size = new System.Drawing.Size(75, 23);
+            this.btn_getData.TabIndex = 0;
+            this.btn_getData.Text = "get data";
+            this.btn_getData.UseVisualStyleBackColor = true;
+            this.btn_getData.Click += new System.EventHandler(this.btn_getData_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(330, 162);
+            this.Controls.Add(this.btn_getData);
+            this.Name = "Form1";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button btn_getData;
     }
 }
 

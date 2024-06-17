@@ -1,0 +1,12 @@
+D:\workplace\C#\HTTP_bai1\bin\Debug\HTTP_bai1.exe.config
+D:\workplace\C#\HTTP_bai1\bin\Debug\HTTP_bai1.exe
+D:\workplace\C#\HTTP_bai1\bin\Debug\HTTP_bai1.pdb
+D:\workplace\C#\HTTP_bai1\obj\Debug\HTTP_bai1.csproj.AssemblyReference.cache
+D:\workplace\C#\HTTP_bai1\obj\Debug\HTTP_bai1.Form1.resources
+D:\workplace\C#\HTTP_bai1\obj\Debug\HTTP_bai1.Properties.Resources.resources
+D:\workplace\C#\HTTP_bai1\obj\Debug\HTTP_bai1.csproj.GenerateResource.cache
+D:\workplace\C#\HTTP_bai1\obj\Debug\HTTP_bai1.csproj.CoreCompileInputs.cache
+D:\workplace\C#\HTTP_bai1\obj\Debug\HTTP_bai1.exe
+D:\workplace\C#\HTTP_bai1\obj\Debug\HTTP_bai1.pdb
+D:\workplace\C#\HTTP_bai1\bin\Debug\xNet.dll
+D:\workplace\C#\HTTP_bai1\obj\Debug\HTTP_bai1.csproj.CopyComplete
